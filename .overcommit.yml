@@ -1,0 +1,8 @@
+---
+excludes:
+  commit_msg:
+  - change_id
+  - release_note
+  pre_commit:
+  - causes_email
+  - restricted_paths
